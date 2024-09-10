@@ -1,5 +1,5 @@
 # Portfolio
-To visit portfolio <a href="https://suraj20701.github.io/Portfolio/">Click Here</a>
+To visit portfolio <a href="https://suraj20701.github.io/Portfolio">Click Here</a>
 
 # UI Screenshot
 <img src="./assets/UI/home.png">
